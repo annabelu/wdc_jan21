@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to my workspace!
 
-You can use the [editor on GitHub](https://github.com/annabelu/wdc_jan21/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Over the month of January, I've been exploring different datasets related to Wellesley, specifically the accessibility and availability of different courses and disciplines from a historic perspective. This was part of the Wellesley Data Collective, which you can check out [here](https://wellesleydatacollective.wordpress.com/)!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Looking at Class Size and Student to Faculty Ratio by Discipline
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+There are so many factors to consider when picking a college, and one of the biggest is size. Large schools often tout access to resources...
 
 ```markdown
 Syntax highlighted code block
