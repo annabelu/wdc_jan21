@@ -19,8 +19,12 @@ The average class size is a bit different than the student to faculty ratio, how
 ![Image](https://user-images.githubusercontent.com/77770436/106247352-7c74c600-61b3-11eb-9c3c-95e1b4185586.png)
 
 
-
 ```markdown
+### still interested?
+Check out my code in my github repository [here](https://github.com/annabelu/wdc_jan21)
+Learn more about the Wellesley Data Collective [here](https://wellesleydatacollective.wordpress.com/)
+```
+markdown
 Syntax highlighted code block
 
 
@@ -33,11 +37,3 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
-###still interested?
-Check out my code in my github repository [here](https://github.com/annabelu/wdc_jan21)
-Learn more about the Wellesley Data Collective [here](https://wellesleydatacollective.wordpress.com/)
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
