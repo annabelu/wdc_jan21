@@ -10,6 +10,11 @@ With these themes in mind, I sought to look at the **average class size** and **
 
 ### 1. Average Class Size by Discipline
 To calculate the average class size, I used excel sheets of all courses offered each semester from 2000-2020. These gave the CRN, Course, Title, Meeting Location, Times, and all other information that would be available for a class on the course browser. For each semester and department, I extracted the number of classes offered (assuming one professor per class), and number of students enrolled in the classes. I then calculated a simple ratio of number of students to number of professors, aka the average class size for that department for the selected semester. 
+This produced a plot looking like:
+![Image](https://user-images.githubusercontent.com/77770436/106246402-294e4380-61b2-11eb-9c8f-d15675e7ad33.png)
+
+### 2. Student to Faculty Ratio by Discipline
+The average class size is a bit different than the student to faculty ratio, however. To calculate this, I collected the number of students enrolled in a department of a a certain discipline, divided by the number of faculty members in that department. I gathered fall enrollment data from the OIR's website, they have a bunch of interesting data accessible [here](https://www.wellesley.edu/oir/factbook/fall-enrollment-detail), and the number of faculty members I gathered from the [Faculty Roster](https://www.wellesley.edu/provost/facultyroster), using the [Wayback Machine](https://web.archive.org/web/2020*/https://www.wellesley.edu/provost/facultyroster) to access archived versions of the page. Using Selenium, I was able to scrape professor information back to 2013, when the earliest version of the page was saved. With (a lot) of cleaning, the final data showed this. 
 
 ```markdown
 Syntax highlighted code block
