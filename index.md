@@ -15,6 +15,7 @@ This produced a plot looking like:
 
 ### 2. Student to Faculty Ratio by Discipline
 The average class size is a bit different than the student to faculty ratio, however. To calculate this, I collected the number of students enrolled in a department of a a certain discipline, divided by the number of faculty members in that department. I gathered fall enrollment data from the OIR's website, they have a bunch of interesting data accessible [here](https://www.wellesley.edu/oir/factbook/fall-enrollment-detail), and the number of faculty members I gathered from the [Faculty Roster](https://www.wellesley.edu/provost/facultyroster), using the [Wayback Machine](https://web.archive.org/web/2020*/https://www.wellesley.edu/provost/facultyroster) to access archived versions of the page. Using Selenium, I was able to scrape professor information back to 2013, when the earliest version of the page was saved. With (a lot) of cleaning, the final data showed this. 
+![Image](https://user-images.githubusercontent.com/77770436/106247352-7c74c600-61b3-11eb-9c3c-95e1b4185586.png)
 
 ```markdown
 Syntax highlighted code block
