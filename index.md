@@ -1,5 +1,6 @@
 # Looking Closer At Wellesley's 8:1 Student to Faculty Ratio
 
+@author Annabel U (auhlman@wellesley.edu)
 Over the month of January, I've been exploring different datasets related to Wellesley, specifically the accessibility and availability of different courses and disciplines from a historic perspective. This was part of the Wellesley Data Collective, which you can check out [here](https://wellesleydatacollective.wordpress.com/)!
 
 ## Class Size and Student to Faculty Ratio by Discipline
@@ -17,13 +18,11 @@ This produced a plot looking like:
 The average class size is a bit different than the student to faculty ratio, however. To calculate this, I collected the number of students enrolled in a department of a a certain discipline, divided by the number of faculty members in that department. I gathered fall enrollment data from the OIR's website, they have a bunch of interesting data accessible [here](https://www.wellesley.edu/oir/factbook/fall-enrollment-detail), and the number of faculty members I gathered from the [Faculty Roster](https://www.wellesley.edu/provost/facultyroster), using the [Wayback Machine](https://web.archive.org/web/2020*/https://www.wellesley.edu/provost/facultyroster) to access archived versions of the page. Using Selenium, I was able to scrape professor information back to 2013, when the earliest version of the page was saved. With (a lot) of cleaning, the final data showed this. 
 ![Image](https://user-images.githubusercontent.com/77770436/106247352-7c74c600-61b3-11eb-9c3c-95e1b4185586.png)
 
+
+
 ```markdown
 Syntax highlighted code block
 
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
@@ -35,12 +34,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/annabelu/wdc_jan21/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+###still interested?
+Check out my code in my github repository [here](https://github.com/annabelu/wdc_jan21)
+Learn more about the Wellesley Data Collective [here](https://wellesleydatacollective.wordpress.com/)
 
 ### Support or Contact
 
