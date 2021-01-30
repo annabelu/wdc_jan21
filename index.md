@@ -1,12 +1,12 @@
 # Looking Closer At Wellesley's 8:1 Student to Faculty Ratio
 
-@author Annabel U (auhlman@wellesley.edu)
+@author Annabel U (auhlman@wellesley.edu)<br>
 Over the month of January, I've been exploring different datasets related to Wellesley, specifically the accessibility and availability of different courses and disciplines from a historic perspective. This was part of the Wellesley Data Collective, which you can check out [here](https://wellesleydatacollective.wordpress.com/)!
 
 ## Class Size and Student to Faculty Ratio by Discipline
 
-There are so many factors to consider when picking a college, and one of the biggest is size. Large schools often tout access to resources while small schools often advertise close relationships with faculty, usually through a low student to faculty ratio. Wellesley claims a 7:1 student to faculty ratio, with a average class size of 17 students, according to the [Office of Instutional Research](https://www.wellesley.edu/oir/facts#:~:text=About%20Academics,is%2017%20students%20per%20class.). 
-As Wellesley students, we know that the size of class you're in often depends on the department of the class - STEM classes seem to be larger and usually packed to the point that students are turned down or have to apply for a spot. 
+There are so many factors to consider when picking a college, and one of the biggest is size. Large schools often tout access to resources while small schools often advertise close relationships with faculty, usually through a low student to faculty ratio. Wellesley claims a 7:1 student to faculty ratio, with a average class size of 17 students, according to the [Office of Instutional Research](https://www.wellesley.edu/oir/facts#:~:text=About%20Academics,is%2017%20students%20per%20class.). <br>
+As Wellesley students, we know that the size of class you're in often depends on the department of the class - STEM classes seem to be larger and usually packed to the point that students are turned down or have to apply for a spot. <br>
 With these themes in mind, I sought to look at the **average class size** and **student to faculty ratio** not for the whole school, but **by discipline.**
 
 ### 1. Average Class Size by Discipline
