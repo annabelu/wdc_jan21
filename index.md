@@ -1,6 +1,6 @@
-# Looking Closer At Wellesley's 8:1 Student to Faculty Ratio
+# Looking Closer At Wellesley's 7:1 Student to Faculty Ratio
 
-@author Annabel U (auhlman@wellesley.edu)<br>
+_@author Annabel U (auhlman@wellesley.edu)_ <br>
 Over the month of January, I've been exploring different datasets related to Wellesley, specifically the accessibility and availability of different courses and disciplines from a historic perspective. This was part of the Wellesley Data Collective, which you can check out [here](https://wellesleydatacollective.wordpress.com/)!
 
 ## Class Size and Student to Faculty Ratio by Discipline
