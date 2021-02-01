@@ -12,21 +12,23 @@ With these themes in mind, I sought to look at the **average class size** and **
 ### 1. Average Class Size by Discipline
 To calculate the average class size, I used excel sheets of all courses offered each semester from 2000-2020. These gave the CRN, Course, Title, Meeting Location, Times, and all other information that would be available for a class on the course browser. For each semester and department, I extracted the number of classes offered (assuming one professor per class), and number of students enrolled in the classes. I then calculated a simple ratio of number of students to number of professors, aka the average class size for that department for the selected semester. 
 This produced a plot looking like:
-![Image](https://user-images.githubusercontent.com/77770436/106246402-294e4380-61b2-11eb-9c8f-d15675e7ad33.png)
+![Image](https://user-images.githubusercontent.com/77770436/106404047-72321200-63d5-11eb-952a-50e1ec0231a2.png)
 
 ### 2. Student to Faculty Ratio by Discipline
-The average class size is a bit different than the student to faculty ratio, however. To calculate this, I collected the number of students enrolled in a department of a a certain discipline, divided by the number of faculty members in that department. I gathered fall enrollment data from the OIR's website, they have a bunch of interesting data accessible [here](https://www.wellesley.edu/oir/factbook/fall-enrollment-detail), and the number of faculty members I gathered from the [Faculty Roster](https://www.wellesley.edu/provost/facultyroster), using the [Wayback Machine](https://web.archive.org/web/2020*/https://www.wellesley.edu/provost/facultyroster) to access archived versions of the page. Using Selenium, I was able to scrape professor information back to 2013, when the earliest version of the page was saved. With (a lot) of cleaning, the final data showed this. 
-![Image](https://user-images.githubusercontent.com/77770436/106247352-7c74c600-61b3-11eb-9c3c-95e1b4185586.png)
-
+The average class size is a bit different than the student to faculty ratio, however. To calculate this, I collected the ***number of students enrolled*** in a department of a a certain discipline, divided by the number of faculty members in that department. I gathered fall enrollment data from the OIR's website, they have a bunch of interesting data accessible [here](https://www.wellesley.edu/oir/factbook/fall-enrollment-detail). <br>
+This is what the raw data looked like after a bit of cleaning, with each column being a count of students in that major:
+![Image](https://user-images.githubusercontent.com/77770436/106400765-9e916280-63c4-11eb-8cea-d179c6deed2e.PNG)<br>
+It should be noted that I did not include all the students who are 'undeclared,' which was about half of the total students (think all first-years and sophomores). Resultingly, this is going to make the raio a lot smaller than it actually is.  <br>
+<br> The ***number of faculty members*** I gathered from the [Faculty Roster](https://www.wellesley.edu/provost/facultyroster), using the [Wayback Machine](https://web.archive.org/web/2020*/https://www.wellesley.edu/provost/facultyroster) to access archived versions of the page. Using Selenium, I was able to scrape professor information back to 2013, when the earliest version of the page was saved. With (a lot) of cleaning, the final data showed this. <br>
+![Image](https://user-images.githubusercontent.com/77770436/106404073-86760f00-63d5-11eb-8e6b-0d3fc0cd3cec.png)
+<br>
+It's interesting to see that 
 
 ```markdown
 ### still interested?
 Check out my code in my github repository [here](https://github.com/annabelu/wdc_jan21)
 Learn more about the Wellesley Data Collective [here](https://wellesleydatacollective.wordpress.com/)
 ```
-markdown
-Syntax highlighted code block
-
 
 - Bulleted
 - List
@@ -36,4 +38,3 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
