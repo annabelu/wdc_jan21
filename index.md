@@ -36,6 +36,6 @@ These results are just the product of my curiosity and interest, and definitely 
 <br>
 ```markdown
 ### still interested?
-Check out my code in my github repository [here](https://github.com/annabelu/wdc_jan21)
-Learn more about the Wellesley Data Collective [here](https://wellesleydatacollective.wordpress.com/)
+Check out my code in my github repository https://github.com/annabelu/wdc_jan21
+Learn more about the Wellesley Data Collective https://wellesleydatacollective.wordpress.com/
 ```
